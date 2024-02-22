@@ -10,10 +10,10 @@
 - HTML (Basic)
 - CSS (Basic)
 ### Technical Knowledge
--Software Testing (Integration and Unit)
--Software Design Cycle
--Data Strutures and Algorithms
--OOP
+- Software Testing (Integration and Unit)
+- Software Design Cycle
+- Data Strutures and Algorithms
+- OOP
 ## Projects
 
 ### Project 1: Battleship Game
@@ -34,8 +34,8 @@
 --- 
 
 ### Project 3: Robotic's Tester
--Evaluated and assessed robot's ability to perform certain tasks, such as picking up blocks and putting them in a separate blocks
--Assisted with unit testing and implemented aspects of software development including testing and design
+- Evaluated and assessed robot's ability to perform certain tasks, such as picking up blocks and putting them in a separate blocks
+- Assisted with unit testing and implemented aspects of software development including testing and design
 
 <!-- <img src="images/greenChoice.png" height="300" width="500"/><br/> -->
 [GitHub Repository](https://github.umn.edu/GDSC/greenchoice)
