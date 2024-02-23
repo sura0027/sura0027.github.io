@@ -9,6 +9,7 @@
 - Microsoft Excel (Advanced)
 - HTML (Basic)
 - CSS (Basic)
+  
 ### Technical Knowledge
 - Software Testing (Integration and Unit)
 - Software Design Cycle
