@@ -3,13 +3,13 @@
 ### Firmware Engineering Intern - Medtronic
 
 ## Skills
-## Languages
+### Languages
 - Python(Advanced level)
 - Java (Advanced level)
 - Microsoft Excel (Advanced)
 - HTML (Basic)
 - CSS (Basic)
-## Technical Knowledge
+### Technical Knowledge
 - Software Testing (Integration and Unit)
 - Software Design Cycle
 - Data Strutures and Algorithms
@@ -49,17 +49,24 @@
 - Planned and organized monthly women presenters for the club
 - Collborated with women from different companies to get their perspective on what it took to be a women in STEM
 - Advertised monthly club meetings by utilizing social media and the use of flyers
+  
 ### Society of Women Engineers
 - Attended SWE events, and coordinated with other memebers for career building
+  
 ### National Honor Society
 - Interacted with other volunteers at a variety of events including Feed My Starving Children, Meals on Wheels and my local temple
 - Demonstrated leadership skills by guiding other students by leading a fundraising event where we raised 50 dllars for a organization called Heifer International
+
 ---
+
 ## Awards
 - Deans List Fall 2023
 - Maple Grove Lion's Scholarship
 - Honor Roll and National Honor Society Certificate
 - AP Scholar with Distinction
+  
+---
+
 ## Education
 <div style="display: flex; flex-direction: row; gap: 10px;">
     <img src="images/umn.jpeg" height="100" width="100"/>
