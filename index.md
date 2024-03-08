@@ -23,7 +23,7 @@
 <br/>
 - Implemented aspects of software development activities, including design, coding, code review, testing, bug fixing, and DocStrings using Python documentation conventions.
 <!-- <img src="images/omnistudy.png" height="300" width="500"/><br/> -->
-[GitHub Repository](https://github.com/omnistudy-ai/omnistudy-test)
+
 
 ---
 
@@ -31,7 +31,7 @@
 - Implemented Python's File IO skills to enhance a PDD(Patient Data Disk) File Decoder by making it more streamlined and user-friendly 
 - Parsed a PDD File and outputted certain information into a table format in a seperate text file using String Algorithms
 <!-- <img src="images/greenChoice.png" height="300" width="500"/><br/> -->
-[GitHub Repository](https://github.umn.edu/GDSC/greenchoice)
+
 
 --- 
 
@@ -40,7 +40,7 @@
 - Assisted with unit testing and implemented aspects of software development including testing and design
 
 <!-- <img src="images/greenChoice.png" height="300" width="500"/><br/> -->
-[GitHub Repository](https://github.umn.edu/GDSC/greenchoice)
+
 
 --- 
 
